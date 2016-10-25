@@ -1,0 +1,15 @@
+name: SlutClean
+version: 1.0.0
+author: BaneOfSmite
+main: me.BaneOfSmite.SlutClean.Main
+description: SlutClean basically means CutClean only works when player isn't wearing armor.
+
+commands:
+  slutclean:
+    description: Toggles SlutClean
+    usage: /<command>
+    permission: SlutClean.Op
+
+permissions:
+  SlutClean.Op:
+    description: Gives access to SlutClean
